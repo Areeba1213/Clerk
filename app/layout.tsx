@@ -6,7 +6,6 @@ import {
   UserButton
 } from '@clerk/nextjs'
 import './globals.css'
-import { Metadata } from 'next'
 export default function RootLayout({
   children,
 }: {
